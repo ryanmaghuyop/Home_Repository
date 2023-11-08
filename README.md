@@ -10,7 +10,11 @@ Oct. 17 <br />
 -uploaded data visualization certificate <br />
 
 Oct. 26 <br />
+<<<<<<< HEAD
 - uploaded Module 1 notebook <br />
 
 Nov. 9 <br />
 - uploaded Module 2 notebook <br />
+=======
+-uploaded Module 1 <br />
+>>>>>>> 0b660089ca42a7caf34bc42f932fc9a4a93f879a
