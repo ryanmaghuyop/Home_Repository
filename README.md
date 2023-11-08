@@ -8,3 +8,9 @@ Oct. 5 <br />
 
 Oct. 17 <br />
 -uploaded data visualization certificate <br />
+
+Oct. 26 <br />
+- uploaded Module 1 notebook <br />
+
+Nov. 9 <br />
+- uploaded Module 2 notebook <br />
