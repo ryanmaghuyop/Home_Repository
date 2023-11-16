@@ -14,3 +14,6 @@ Oct. 26 <br />
 
 Nov. 9 <br />
 - uploaded Module 2 notebook <br />
+
+Nov. 16 <br />
+- uploaded Module 3 notebook <br />
