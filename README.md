@@ -23,3 +23,6 @@ Nov. 22 <br />
 
 Dec. 8 <br />
 - uploaded Module 5 notebook <br />
+
+Dec. 19 <br />
+- uploaded Module 6 notebook <br />
